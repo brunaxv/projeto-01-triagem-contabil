@@ -10,4 +10,8 @@ Não invente dados, responsáveis específicos, prazos, valores, disponibilidade
 
 ## Entrada para a tarefa mínima
 
-Use o **Relato 1 — abertura de empresa** de `apoio/clientes_ficticios.md`. Classifique-o segundo `apoio/tabela_assuntos.md` e produza a ficha de triagem preenchida em formato legível.
+Use um relato de `apoio/clientes_ficticios.md` conforme indicado na tarefa. Classifique-o segundo `apoio/tabela_assuntos.md` e produza a ficha de triagem preenchida em formato legível.
+
+### Execução adicional — Relato 2
+
+Use o **Relato 2 — obrigação acessória em atraso**. Classifique-o segundo a tabela e gere a ficha. Observe especialmente as regras para urgência alta e notificação com prazo próximo: sinalize encaminhamento direto a um associado humano, sem sugerir agendamento como confirmado.
